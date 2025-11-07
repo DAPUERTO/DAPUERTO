@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Diego 🙂</h1>
+<h4 align="center">I'm a 31 years old junior web developer based in France.</h4>
 
-<!--
-**DAPUERTO/DAPUERTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><h2 align="center">Contact: 3023456737</h2><br>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+<br><br>
+📧 Mail : celularempresa57@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</div><br>
+
+<hr>
+
+<br><h2 align="center">Skills:</h2><br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-ff6600?style=for-the-badge&logo=html5&logoColor=ff6600&labelColor=282828">
+  
+  <br><img src="https://img.shields.io/badge/-CSS-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+
+
+<br><img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+

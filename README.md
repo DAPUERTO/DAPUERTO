@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Diego 🙂</h1>
-<h4 align="center">I'm Diego Alexander Puerto Acosta, a passionate junior web developer and programming student from Colombia. I enjoy learning about C#, Python, HTML, CSS, and web development in general.</h4>
+<h4 align="center">I'm Diego Puerto, a passionate junior web developer and programming student from Colombia. I enjoy learning about C#, Python, HTML, CSS, and web development in general.</h4>
 
 <br><br><h2 align="center">Contact: 3023456737</h2><br>
 
